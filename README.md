@@ -1,1 +1,1 @@
-# myCM
+# hqCM
